@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SuryaPortfolio/static/css/main.beba62a2.css",
-    "main.js": "/SuryaPortfolio/static/js/main.9144a9dd.js",
+    "main.css": "/SuryaPortfolio/static/css/main.ed5abfa8.css",
+    "main.js": "/SuryaPortfolio/static/js/main.0d52d6eb.js",
     "static/js/787.1f11dfe9.chunk.js": "/SuryaPortfolio/static/js/787.1f11dfe9.chunk.js",
     "static/media/ZARA.png": "/SuryaPortfolio/static/media/ZARA.e1472f122a0e8f0839d7.png",
     "static/media/SHOP.COM.png": "/SuryaPortfolio/static/media/SHOP.COM.0965a4964574ca4d9191.png",
@@ -15,12 +15,12 @@
     "static/media/css.png": "/SuryaPortfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/SuryaPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/SuryaPortfolio/index.html",
-    "main.beba62a2.css.map": "/SuryaPortfolio/static/css/main.beba62a2.css.map",
-    "main.9144a9dd.js.map": "/SuryaPortfolio/static/js/main.9144a9dd.js.map",
+    "main.ed5abfa8.css.map": "/SuryaPortfolio/static/css/main.ed5abfa8.css.map",
+    "main.0d52d6eb.js.map": "/SuryaPortfolio/static/js/main.0d52d6eb.js.map",
     "787.1f11dfe9.chunk.js.map": "/SuryaPortfolio/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.beba62a2.css",
-    "static/js/main.9144a9dd.js"
+    "static/css/main.ed5abfa8.css",
+    "static/js/main.0d52d6eb.js"
   ]
 }
