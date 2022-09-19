@@ -3,8 +3,10 @@ import Logo from "../assets/SS-LOGO.png"
 import {FaBars,FaTimes,FaLinkedin,FaGithub} from "react-icons/fa";
 import {HiOutlineMail} from "react-icons/hi"
 import {BsFillPersonLinesFill} from "react-icons/bs"
+import {BsFillTelephoneForwardFill} from "react-icons/bs"
 import { useState } from 'react'
 import {Link} from "react-scroll"
+import pdf from "../assets/Surya-Srivastava-Resume.pdf"
 const Navbar = () => {
 
     const [nav,setNav]=useState(false);
@@ -78,8 +80,13 @@ const Navbar = () => {
                     </a>
                 </li>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
-                    <a className='flex justify-between items-center w-full text-gray-300' download target="_blank" href="file:///C:/Users/SURYA%20SRIVASTAVA/Downloads/Surya-Srivastava-Resume.pdf">
+                    <a href={pdf} download className='flex justify-between items-center w-full text-gray-300' target="_blank">
                         Resume <BsFillPersonLinesFill size={30} />
+                    </a>
+                </li>
+                <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#3f7a91]'>
+                    <a href={pdf} download className='flex justify-between items-center w-full text-gray-300' target="_blank">
+                        +91-7247067481 <BsFillTelephoneForwardFill size={30} />
                     </a>
                 </li>
             </ul>
