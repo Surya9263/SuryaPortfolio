@@ -19,24 +19,36 @@ const Navbar = () => {
         </div>
         {/* menu */}
         
-            <ul className='hidden md:flex' >
-                <li className='hover:text-pink-600'>
-                <Link to="home" smooth={true} duration={500}>
-                    Home
-                </Link>
-                </li>
-                <li className='hover:text-pink-600'><Link to="about" smooth={true} duration={500}>
-                    About
-                </Link></li>
-                <li className='hover:text-pink-600'><Link to="skills" smooth={true} duration={500}>
-                    Skills
-                </Link></li>
-                <li className='hover:text-pink-600'><Link to="work" smooth={true} duration={500}>
-                    Work
-                </Link></li>
-                <li className='hover:text-pink-600'><Link to="contact" smooth={true} duration={500}>
-                    Contact
-                </Link></li>
+            <ul className='hidden md:flex gap-5' >
+            <div className='relative group'>
+                <div className='absolute -inset-0.5  rounded-lg blur opacity-75 bg-gradient-to-r from-pink-600 to-purple-600 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt'></div>
+                <li className='relative bg-[#0a192f] rounded-lg leading-none px-7 py-4'><Link to="home" smooth={true} duration={500}>
+                <span className='text-indigo-400 group-hover:text-gray-100 transition duration-200' >Home</span>
+                </Link></li></div>
+
+                <div className='relative group'>
+                    <div className='absolute -inset-0.5  rounded-lg blur opacity-75 bg-gradient-to-r from-pink-600 to-purple-600 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt'></div>
+                <li className='relative bg-[#0a192f] rounded-lg leading-none px-7 py-4'><Link to="about" smooth={true} duration={500}>
+                    <span className='text-indigo-400 group-hover:text-gray-100 transition duration-200' >About</span>
+                </Link></li></div>
+
+                <div className='relative group'>
+                <div className='absolute -inset-0.5  rounded-lg blur opacity-75 bg-gradient-to-r from-pink-600 to-purple-600 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt'></div>
+                <li className='relative bg-[#0a192f] rounded-lg leading-none px-7 py-4'><Link to="skills" smooth={true} duration={500}>
+                <span className='text-indigo-400 group-hover:text-gray-100 transition duration-200' >Skills</span>
+                </Link></li></div>
+                
+                <div className='relative group'>
+                <div className='absolute -inset-0.5  rounded-lg blur opacity-75 bg-gradient-to-r from-pink-600 to-purple-600 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt'></div>
+                <li className='relative bg-[#0a192f] rounded-lg leading-none px-7 py-4'><Link to="work" smooth={true} duration={500}>
+                <span className='text-indigo-400 group-hover:text-gray-100 transition duration-200' >Work</span>
+                </Link></li></div>
+                
+                <div className='relative group'>
+                <div className='absolute -inset-0.5  rounded-lg blur opacity-75 bg-gradient-to-r from-pink-600 to-purple-600 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt'></div>
+                <li className='relative bg-[#0a192f] rounded-lg leading-none px-7 py-4'><Link to="contact" smooth={true} duration={500}>
+                <span className='text-indigo-400 group-hover:text-gray-100 transition duration-200' >Contact</span>
+                </Link></li></div>
             </ul>
         
         {/* Hamburger */}
