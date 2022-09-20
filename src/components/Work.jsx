@@ -25,6 +25,7 @@ const Work = () => {
                         <span className='text-2xl font-bold text-white tracking-wider'>
                             ZARA.COM [CLONE]
                         </span>
+                        <span className='text-2xl text-pink-600'>[HTML, CSS, JavaScript]</span>
                         <div className='pt-8 text-center'>
                             <a href="https://bucolic-dango-38b34e.netlify.app/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>DEMO</button>                                
@@ -44,6 +45,7 @@ const Work = () => {
                         <span className='text-2xl font-bold text-white tracking-wider'>
                             SHOP.COM [CLONE]
                         </span>
+                        <span className='text-2xl text-pink-600'>[HTML, CSS, JavaScript]</span>
                         <div className='pt-8 text-center'>
                             <a href="https://vocal-marigold-0a794e.netlify.app/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>DEMO</button>                                
@@ -60,9 +62,10 @@ const Work = () => {
                     
                     {/* hover effects */}
                     <div className='opacity-0 group-hover:opacity-100'>
-                        <span className='text-2xl font-bold text-white tracking-wider'>
+                        <span className='text-2xl font-bold text-white tracking-wider flex'>
                             THEHINDU.COM [CLONE]
                         </span>
+                        <span className='text-2xl text-pink-600'>[React JS, News.io API, module CSS]</span>
                         <div className='pt-8 text-center'>
                             <a href="https://thehinduclone.netlify.app/" target="_blank">
                                 <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>DEMO</button>                                
