@@ -1,5 +1,5 @@
 import React from 'react'
-
+import image from "../assets/SURYA.jpg"
 const About = () => {
   return (
     <div name="about" className='w-full h-screen bg-[#0a192f] text-gray-300'>
@@ -11,15 +11,11 @@ const About = () => {
                 <div></div>
         </div>
         <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
-                    <div className='sm:text-right text-4xl font-bold'>
-                        <p>Hi, I'm Surya, nice to meet you. Please take a look around.</p>
+                    <div className='aspect-w-3 aspect-h-2 sm:aspect-w-1 sm:aspect-h-1 lg:aspect-w-3 lg:aspect-h-2 '>
+                        <img className='object-cover shadow-lg rounded-lg' src={image} alt="" />
                     </div>
-                    <div>
-                    <p>I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?</p>  
+                    <div style={{}}>
+                    <p style={{lineHeight:"35px"}} >Solution-driven web developer adept at contributing to highly collaborative work environment and finding solutions. I'm an Analytical and detailed-oriented aspiring Full Stack Web Developer. Proficient in writing production-ready code using ReactJS, redux, and CSS on the frontend, NodeJS, and Express on the backend to build single-page applications. Passionate about coding and strongly interested in working in a product-based company. </p>  
                     </div>
         </div>
         </div>
