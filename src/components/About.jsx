@@ -15,7 +15,7 @@ const About = () => {
                         <img className='object-cover shadow-lg rounded-lg' src={image} alt="" />
                     </div>
                     <div style={{}}>
-                    <p className="leading-6  bg-gradient-to-r from-indigo-400 to-transparent  px-12 decoration-clone sm:leading-9">Solution-driven web developer adept at contributing to highly collaborative work environment and finding solutions. I'm an Analytical and detailed-oriented aspiring Full Stack Web Developer. Proficient in writing production-ready code using ReactJS, redux, and CSS on the frontend, NodeJS, and Express on the backend to build single-page applications. Passionate about coding and strongly interested in working in a product-based company. </p>  
+                    <p className="leading-5  bg-gradient-to-r from-indigo-400 to-transparent  px-12 decoration-clone sm:leading-9">Solution-driven web developer adept at contributing to highly collaborative work environment and finding solutions. I'm an Analytical and detailed-oriented aspiring Full Stack Web Developer. Proficient in writing production-ready code using ReactJS, redux, and CSS on the frontend, NodeJS, and Express on the backend to build single-page applications. Passionate about coding and strongly interested in working in a product-based company. </p>  
                     </div>
         </div>
         </div>
