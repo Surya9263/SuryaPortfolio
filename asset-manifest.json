@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SuryaPortfolio/static/css/main.cb32f8ef.css",
-    "main.js": "/SuryaPortfolio/static/js/main.b5d74f89.js",
+    "main.js": "/SuryaPortfolio/static/js/main.63f9f294.js",
     "static/js/787.1f11dfe9.chunk.js": "/SuryaPortfolio/static/js/787.1f11dfe9.chunk.js",
     "static/media/ZARA.png": "/SuryaPortfolio/static/media/ZARA.e1472f122a0e8f0839d7.png",
     "static/media/SHOP.COM.png": "/SuryaPortfolio/static/media/SHOP.COM.0965a4964574ca4d9191.png",
@@ -18,11 +18,11 @@
     "static/media/javascript.png": "/SuryaPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/SuryaPortfolio/index.html",
     "main.cb32f8ef.css.map": "/SuryaPortfolio/static/css/main.cb32f8ef.css.map",
-    "main.b5d74f89.js.map": "/SuryaPortfolio/static/js/main.b5d74f89.js.map",
+    "main.63f9f294.js.map": "/SuryaPortfolio/static/js/main.63f9f294.js.map",
     "787.1f11dfe9.chunk.js.map": "/SuryaPortfolio/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb32f8ef.css",
-    "static/js/main.b5d74f89.js"
+    "static/js/main.63f9f294.js"
   ]
 }
