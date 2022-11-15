@@ -49,6 +49,12 @@ const Navbar = () => {
                 <li className='relative bg-[#0a192f] rounded-lg leading-none px-7 py-4'><Link to="contact" smooth={true} duration={500}>
                 <span className='text-gray-300 group-hover:text-indigo-400 transition duration-200' >Contact</span>
                 </Link></li></div>
+
+                <div className='relative group'>
+                <div className='absolute -inset-0.5  rounded-lg blur opacity-75 bg-gradient-to-r from-pink-600 to-purple-600 group-hover:opacity-100 transition duration-1000 group-hover:duration-200 animate-tilt'></div>
+                <li className='relative bg-[#0a192f] rounded-lg leading-none px-7 py-4'><a href={pdf} download to="contact" smooth={true} duration={500}>
+                <span className='text-gray-300 group-hover:text-indigo-400 transition duration-200' >Resume</span>
+                </a></li></div>
             </ul>
         
         {/* Hamburger */}

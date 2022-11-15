@@ -1,5 +1,5 @@
 import React from 'react'
-import image from "../assets/SURYA.jpg"
+import image from "../assets/SuryaImg.jpeg"
 const About = () => {
   return (
     <div name="about" className='w-full h-screen bg-[#0a192f] text-gray-300'>
