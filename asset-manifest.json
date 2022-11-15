@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/SuryaPortfolio/static/css/main.cb32f8ef.css",
-    "main.js": "/SuryaPortfolio/static/js/main.63f9f294.js",
+    "main.css": "/SuryaPortfolio/static/css/main.8ece826b.css",
+    "main.js": "/SuryaPortfolio/static/js/main.7ba48442.js",
     "static/js/787.1f11dfe9.chunk.js": "/SuryaPortfolio/static/js/787.1f11dfe9.chunk.js",
-    "static/media/ZARA.png": "/SuryaPortfolio/static/media/ZARA.e1472f122a0e8f0839d7.png",
-    "static/media/SHOP.COM.png": "/SuryaPortfolio/static/media/SHOP.COM.0965a4964574ca4d9191.png",
     "static/media/theHindu.png": "/SuryaPortfolio/static/media/theHindu.06ee4937e7fa6bff32ca.png",
-    "static/media/Surya-Srivastava-Resume.pdf": "/SuryaPortfolio/static/media/Surya-Srivastava-Resume.26e2e36aa7f0246435e2.pdf",
+    "static/media/SHOP.COM.png": "/SuryaPortfolio/static/media/SHOP.COM.32a21c97dd860bd5962e.png",
+    "static/media/zara1.png": "/SuryaPortfolio/static/media/zara1.961cf8c244455f786825.png",
+    "static/media/SuryaImg.jpeg": "/SuryaPortfolio/static/media/SuryaImg.70a5f3e063e5976c7b15.jpeg",
+    "static/media/myhours.png": "/SuryaPortfolio/static/media/myhours.e65d0f49868de1394603.png",
+    "static/media/Surya-Srivastava-Resume.pdf": "/SuryaPortfolio/static/media/Surya-Srivastava-Resume.6f78f63be7fa25154693.pdf",
     "static/media/react.png": "/SuryaPortfolio/static/media/react.0cf951a69d8e58f83f9d.png",
-    "static/media/SURYA.jpg": "/SuryaPortfolio/static/media/SURYA.47be7f19b313981062d3.jpg",
     "static/media/node.png": "/SuryaPortfolio/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/mongo.png": "/SuryaPortfolio/static/media/mongo.2a1528ddc31d4ce8518d.png",
     "static/media/DSA.png": "/SuryaPortfolio/static/media/DSA.0735e9298636d7e0059d.png",
@@ -17,12 +18,12 @@
     "static/media/css.png": "/SuryaPortfolio/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/SuryaPortfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/SuryaPortfolio/index.html",
-    "main.cb32f8ef.css.map": "/SuryaPortfolio/static/css/main.cb32f8ef.css.map",
-    "main.63f9f294.js.map": "/SuryaPortfolio/static/js/main.63f9f294.js.map",
+    "main.8ece826b.css.map": "/SuryaPortfolio/static/css/main.8ece826b.css.map",
+    "main.7ba48442.js.map": "/SuryaPortfolio/static/js/main.7ba48442.js.map",
     "787.1f11dfe9.chunk.js.map": "/SuryaPortfolio/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb32f8ef.css",
-    "static/js/main.63f9f294.js"
+    "static/css/main.8ece826b.css",
+    "static/js/main.7ba48442.js"
   ]
 }
