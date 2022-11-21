@@ -103,9 +103,9 @@ const Navbar = () => {
                     </a>
                 </li>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#3f7a91]'>
-                    <a className='flex justify-between items-center w-full text-gray-300'>
+                    <p className='flex justify-between items-center w-full text-gray-300'>
                         +91-7247067481 <BsFillTelephoneForwardFill size={30} />
-                    </a>
+                    </p>
                 </li>
             </ul>
         </div>
